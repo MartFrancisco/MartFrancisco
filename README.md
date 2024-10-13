@@ -6,7 +6,7 @@ Hi there 👋, I am Francisco Martins. Nice to have you here!
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img src= "atom.gif" align = right width = "200px">
+<img src= "giphy.gif" align = right width = "200px">
 
 - 👨‍🔬 I solve organic chemistry problems using computers.
 - 📗 I'm passionate about machine learning.
