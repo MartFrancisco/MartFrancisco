@@ -25,7 +25,7 @@ Hi there 👋, I am Francisco Martins. Nice to have you here!
 
 If you are curious about my scientific production, visit my Google Scholar:
 <a href="https://scholar.google.com/citations?user=Q2KapsMAAAAJ&hl=pt-BR" target="_blank">
-  <img src="./Google_Scholar_blue_logo.png" alt="Google Scholar" height="40" width="40">
+  <img src="./Google_Scholar_blue_logo.png" alt="Google Scholar" height="20" width="20">
 </a>
 
   ##
