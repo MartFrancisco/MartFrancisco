@@ -11,7 +11,7 @@ Hi there 👋, I am Francisco Martins. Nice to have you here!
 
 - 👨‍🔬 I solve problems in chemistry using computers.
 - 📗 I'm passionate about learning.
-- 🤝 I'm looking to collaborate on comp. chem and ML projects.
+- 🤝 I'm looking to collaborate on computational chemistry and ML projects.
 - 👨 Pronouns: He/Him.
 - 🤯 Fun fact: My first experience with programming made me swear I’d never code again. Yet, here I am! 😆
 
