@@ -9,9 +9,9 @@ Hi there 👋, I am Francisco Martins. Nice to have you here!
 
 <img src= "giphy.gif" align = right width = "200px">
 
-- 👨‍🔬 I solve organic chemistry problems using computers.
+- 👨‍🔬 I solve chemistry problems using computers.
 - 📗 I'm passionate about machine learning.
-- 🤝 I'm looking to collaborate on chemoinformatics projects.
+- 🤝 I'm looking to collaborate on comp. chem and ML projects.
 - 👨 Pronouns: He/Him.
 - 🤯 Fun fact: My first experience with programming made me swear I’d never code again. Yet, here I am! 😆
 
