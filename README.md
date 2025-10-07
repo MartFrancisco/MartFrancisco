@@ -7,7 +7,7 @@ Hi there 👋, I am Francisco Martins. Nice to have you here!
 
 </div>
 
-<img src= "giphy.gif" align = right width = "200px">
+<img src= "./images/giphy.gif" align = right width = "200px">
 
 - 👨‍🔬 I solve problems in chemistry using computers.
 - 📗 I'm passionate about learning.
@@ -25,7 +25,7 @@ Hi there 👋, I am Francisco Martins. Nice to have you here!
 
 If you are curious about my scientific production, visit my Google Scholar: 
 <a href="https://scholar.google.com/citations?user=Q2KapsMAAAAJ&hl=pt-BR" target="_blank">
-  <img src="./Google_Scholar_blue_logo.png" alt="Google Scholar" height="40" width="40">
+  <img src="./images/Google_Scholar_blue_logo.png" alt="Google Scholar" height="40" width="40">
 </a>
 
   ##
